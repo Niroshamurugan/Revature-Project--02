@@ -48,10 +48,9 @@ To run the hive queries, use the Hive shell
 Once the data is loaded into hive, use the `spark-submit` command to run the python program in this repo or use `pyspark` to run each command/operations manually.
 
 # Contributors
-
-* Redon N Roy
-* Neha Kumari
-* Meenal shree
+* [Redon N Roy](https://github.com/redon-n-roy)
+* [Meenal Shree](https://github.com/meenal-shree)
+* [Neha Kumari](https://github.com/nkneha)
 
 # License
 
